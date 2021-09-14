@@ -1,0 +1,170 @@
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.genruntimeconfig.cache
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CoreCompileInputs.cache
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+C:\Users\King\source\repos\ProjectBot\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.genruntimeconfig.cache
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CoreCompileInputs.cache
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.genruntimeconfig.cache
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Pastel.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+X:\Git Repos\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CoreCompileInputs.cache
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Pastel.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Pastel.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+E:\TelegramBot\disk-exchange\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+C:\Users\King\Source\Repos\disk-exchange2\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Pastel.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CoreCompileInputs.cache
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+C:\Users\HailRake\Desktop\disk-exchange-master\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.genruntimeconfig.cache
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Pastel.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CoreCompileInputs.cache
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+E:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.genruntimeconfig.cache
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.exe
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.deps.json
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.json
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.runtimeconfig.dev.json
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Pastel.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\System.Data.SQLite.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\linux-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\osx-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.0\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\netstandard2.1\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.0\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\netstandard2.1\SQLite.Interop.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csprojAssemblyReference.cache
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfoInputs.cache
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.AssemblyInfo.cs
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CoreCompileInputs.cache
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.csproj.CopyComplete
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.dll
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.pdb
+D:\Курсовые\КПИЯП\DiskExchange TG Bot\obj\Debug\netcoreapp3.1\DiskExchange TG Bot.genruntimeconfig.cache
