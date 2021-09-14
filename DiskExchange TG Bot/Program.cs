@@ -33,7 +33,7 @@ namespace DiskExchange_TG_Bot
 
         private static void Main(string[] args)
         {
-            bot = new TelegramBotClient("1299381797:AAF58uk3gqiSt9pkILwJ8970UXo2t_0_brQ") { Timeout = TimeSpan.FromSeconds(100) };
+            bot = new TelegramBotClient("token") { Timeout = TimeSpan.FromSeconds(100) };
             bot.OnMessage += Bot_OnMessage;
             bot.OnCallbackQuery += Bot_OnCallbackQuery;
             bot.OnInlineQuery += Bot_OnInlineQuery;
